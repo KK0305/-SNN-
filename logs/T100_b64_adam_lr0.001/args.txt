@@ -1,0 +1,2 @@
+Namespace(T=100, amp=False, b=64, data_dir='./data', device='cpu', epochs=1, j=4, lr=0.001, momentum=0.9, opt='adam', out_dir='./logs', resume=None, tau=2.0)
+E:/夏令营/南方科技大学/面试/胥瑞康-题目3脉冲神经网络/main.py
